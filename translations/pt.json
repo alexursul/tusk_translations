@@ -1,4 +1,6 @@
 {
+  "today_is_a_holiday_description": "Deixe tudo de lado e permita-se desfrutar de suas férias.",
+  "today_is_a_holiday": "Hoje é feriado",
   "end_of_holidays_list": "Fim da lista de feriados",
   "do_you_want_to_delete_holiday": "Quer deletar feriado?",
   "for_all_tasks": "Para todas as tarefas",
@@ -518,7 +520,7 @@
   "achievement_brainstorm": "Planejamento ativo",
   "achievement_brainstorm_description": "Eleve sua atividade média mensal para {} ou mais.",
   "achievement_finish_repeated_tasks": "Uma nova rodada",
-  "achievement_finish_repeated_tasks_description": "Atinga a condição de finalização de tarefas regulares {}.",
+  "achievement_finish_repeated_tasks_description": "Atinja a condição de finalização de tarefas regulares {}.",
   "achievement_completion_series": "Maratonista",
   "achievement_completion_series_description": "Concluir uma tarefa regular {} seguidas.",
   "achievement_create_tasks": "Grandes Planos",
