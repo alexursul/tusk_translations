@@ -1,4 +1,7 @@
 {
+  "windows_on_beta_test": "Tusk 的 Windows 版本正在進行 beta 測試。 錯誤是可能的。",
+  "beta_version": "測試版本",
+  "the_holidays_only_tied": "僅與此任務直接關聯的假期將被刪除。 所有任務的假期和與標籤相關的假期將保留。",
   "today_is_a_holiday_description": "把一切都放在一邊，讓自己享受假期。",
   "today_is_a_holiday": "今天是假日",
   "end_of_holidays_list": "假期結束名單",
@@ -64,6 +67,13 @@
     "few": "{} 個月",
     "many": "{} 個月",
     "other": "{} 個月"
+  },
+  "every_n_months": {
+    "one": "每個月",
+    "two": "每 {} 個月",
+    "few": "每 {} 個月",
+    "many": "每 {} 個月",
+    "other": "每 {} 個月"
   },
   "import_period": "進口期",
   "import_period_description": "從Google日曆導入什麼時間段的事件。",

@@ -1,4 +1,7 @@
 {
+  "windows_on_beta_test": "Windows version of Tusk is in beta testing. Errors are possible.",
+  "beta_version": "Beta version",
+  "the_holidays_only_tied": "The holidays only tied to this task directly will be deleted. Holidays for all tasks and holidays associated with tags will remain.",
   "today_is_a_holiday_description": "Put everything aside and allow yourself to enjoy your vacation.",
   "today_is_a_holiday": "Today is a holiday",
   "end_of_holidays_list": "End of holidays list",
@@ -64,6 +67,13 @@
     "few": "{} months",
     "many": "{} months",
     "other": "{} months"
+  },
+  "every_n_months": {
+    "one": "every month",
+    "two": "every {} months",
+    "few": "every {} months",
+    "many": "every {} months",
+    "other": "every {} months"
   },
   "import_period": "Import period",
   "import_period_description": "Events for what period to import from Google Calendar.",

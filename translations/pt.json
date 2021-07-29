@@ -1,4 +1,7 @@
 {
+  "windows_on_beta_test": "A versão Windows do Tusk está em teste beta. Erros são possíveis.",
+  "beta_version": "Versão beta",
+  "the_holidays_only_tied": "Os feriados apenas vinculados a esta tarefa diretamente serão excluídos. Os feriados para todas as tarefas e os feriados associados às tags permanecerão.",
   "today_is_a_holiday_description": "Deixe tudo de lado e permita-se desfrutar de suas férias.",
   "today_is_a_holiday": "Hoje é feriado",
   "end_of_holidays_list": "Fim da lista de feriados",
@@ -64,6 +67,13 @@
     "few": "{} meses",
     "many": "{} meses",
     "other": "{} meses"
+  },
+  "every_n_months": {
+    "one": "toda mês",
+    "two": "a cada {} meses",
+    "few": "a cada {} meses",
+    "many": "a cada {} meses",
+    "other": "a cada {} meses"
   },
   "import_period": "Importar período",
   "import_period_description": "Eventos do período determinado para importar do Google Agenda.",
@@ -512,7 +522,7 @@
   "for_six_months": "por seis meses",
   "for_a_year": "por um ano",
   "achievement_future_task": "Visitantes do futuro",
-  "achievement_future_task_description": "Conclua qualquer tarefa tarefa no futuro.",
+  "achievement_future_task_description": "Conclua qualquer tarefa no futuro.",
   "achievement_perfect_days": "Dias perfeitos",
   "achievement_perfect_days_description": "Faça {} ou mais dias perfeitos.",
   "achievement_out_of_sight": "Fora da vista",

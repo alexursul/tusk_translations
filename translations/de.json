@@ -1,4 +1,7 @@
 {
+  "windows_on_beta_test": "Die Windows-Version von Tusk befindet sich im Betatest. Fehler sind möglich.",
+  "beta_version": "Betaversion",
+  "the_holidays_only_tied": "Die nur direkt mit dieser Aufgabe verknüpften Feiertage werden gelöscht. Feiertage für alle Aufgaben und Feiertage, die mit Tags verknüpft sind, bleiben erhalten.",
   "today_is_a_holiday_description": "Legen Sie alles beiseite und genießen Sie Ihren Urlaub.",
   "today_is_a_holiday": "Heute ist ein Feiertag",
   "end_of_holidays_list": "Ende der Ferienliste",
@@ -64,6 +67,13 @@
     "few": "{} Monate",
     "many": "{} Monate",
     "other": "{} Monate"
+  },
+  "every_n_months": {
+    "one": "jeden Monat",
+    "two": "alle {} Monate",
+    "few": "alle {} Monate",
+    "many": "alle {} Monate",
+    "other": "alle {} Monate"
   },
   "import_period": "Importzeitraum",
   "import_period_description": "Ereignisse für welchen Zeitraum aus Google Kalender importiert werden sollen.",
