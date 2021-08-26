@@ -1,4 +1,6 @@
 {
+ "reset_password": "Сбросить пароль",
+ "reset_password_success": "На Вашу почту было отправлено письмо со ссылкой для сброса пароля.",
  "export_on_midnight": "Exporte tareas sin tiempo establecido como eventos con tiempo \"00:00\" en lugar de \"Todo el día\".",
  "a_day": "día",
  "a_month": "por mes",
